@@ -7,5 +7,6 @@ public class HelloGit {
     public static void main(String[] args){
         System.out.println("public");
         System.out.println("ttt");
+        System.out.println("push to github");
     }
 }
