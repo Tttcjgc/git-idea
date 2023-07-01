@@ -4,5 +4,7 @@
  * @project git-idea
  */
 public class HelloGit {
-
+    public static void main(String[] args){
+ttt
+    }
 }
