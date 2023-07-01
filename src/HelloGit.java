@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("public");
         System.out.println("ttt");
         System.out.println("push to github");
+        System.out.println("pull to idea");
     }
 }
